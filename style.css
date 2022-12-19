@@ -328,7 +328,7 @@ a:hover {
     text-decoration: underline;
 }
 .nav > li > a:hover {
-    color: #F3976C !important;
+    color: #f57134 !important;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -751,7 +751,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: #f57134;
     padding: 40px 40px 40px 40px;
 }
 
@@ -769,7 +769,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #f57134;
 }
 
 .tc-white {
@@ -777,7 +777,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #f57134;
     color: #FFFFFF!important;
 }
 
@@ -795,7 +795,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #f57134!important;
 }
 
 .ltc-atomic-tangerine:hover {
@@ -1039,7 +1039,7 @@ h4 {
     }
 }
 .infos-contact p{
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
     text-align: center;
 }
