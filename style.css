@@ -328,7 +328,7 @@ a:hover {
     text-decoration: underline;
 }
 .nav > li > a:hover {
-    color: #f57134 !important;
+    color: #df4c08 !important;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -751,7 +751,7 @@ h4 {
 }
 
 .black-background {
-    background-color: #f57134;
+    background-color: #df4c08;
     padding: 40px 40px 40px 40px;
 }
 
@@ -769,7 +769,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #f57134;
+    background-color: #df4c08;
 }
 
 .tc-white {
@@ -777,7 +777,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #f57134;
+    background: #df4c08;
     color: #FFFFFF!important;
 }
 
@@ -795,7 +795,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #f57134!important;
+    color: #df4c08!important;
 }
 
 .ltc-atomic-tangerine:hover {
